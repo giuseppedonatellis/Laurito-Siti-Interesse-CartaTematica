@@ -26,7 +26,3 @@ Il risultato finale è una carta tematica dei siti di interesse presenti nel ter
 
 - I dati topografici (CTR) utilizzati provengono dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0.
 - I dati dei servizi WMS e delle fonti comunali sono soggetti alle condizioni d’uso riportate sui rispettivi siti. Si raccomanda di verificarle prima della redistribuzione.
-
-## Accesso ai dati
-
-I file GIS e la carta tematica dei siti di interesse geologico, naturalistico, archeologico e turistico presenti nel territorio comunale di Laurito (SA) sono disponibili al seguente link: https://drive.google.com/file/d/1xkqawwZMPSkI85XI6A9cKuewW3gb1rxY/view?usp=drive_link
