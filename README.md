@@ -29,4 +29,4 @@ Il risultato finale è una carta tematica dei siti di interesse presenti nel ter
 
 ## Accesso ai dati
 
-I file GIS e la carta tematica dei siti di interesse geologico, naturalistico, archeologico e turistico presenti nel territorio comunale di Laurito (SA) sono disponibili al seguente link:
+I file GIS e la carta tematica dei siti di interesse geologico, naturalistico, archeologico e turistico presenti nel territorio comunale di Laurito (SA) sono disponibili al seguente link: https://drive.google.com/file/d/1xkqawwZMPSkI85XI6A9cKuewW3gb1rxY/view?usp=drive_link
