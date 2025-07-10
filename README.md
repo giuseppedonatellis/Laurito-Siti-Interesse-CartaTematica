@@ -26,3 +26,6 @@ Il risultato finale è una carta tematica dei siti di interesse presenti nel ter
 
 - I dati topografici (CTR) utilizzati provengono dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0.
 - I dati dei servizi WMS e delle fonti comunali sono soggetti alle condizioni d’uso riportate sui rispettivi siti. Si raccomanda di verificarle prima della redistribuzione.
+
+## Accesso ai dati 
+https://drive.google.com/drive/folders/1JPONY9p05AFiEmI8PQz0fy_AOHeQIgVs?usp=drive_link
