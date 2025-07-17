@@ -2,6 +2,8 @@
 
 Questo progetto documenta la realizzazione di una carta tematica dei siti di interesse geologico, naturalistico, archeologico e turistico nel territorio comunale di Laurito (SA), attraverso l’uso di servizi cartografici WMS, dati comunali e strumenti GIS.
 
+---
+
 ## Fasi operative
 
 - Raccolta dei dati dai seguenti servizi:
@@ -14,18 +16,26 @@ Questo progetto documenta la realizzazione di una carta tematica dei siti di int
 - Composizione cartografica finale ed esportazione della mappa in formato .jpg, .tiff o .pdf (A4)
 - Inserimento degli elementi accessori: freccia del nord, barra di scala, legenda e coordinate
 
+---
+
 ## Software utilizzato
 
 - QGIS versione 3.30.4
+
+---
 
 ## Output
 
 Il risultato finale è una carta tematica dei siti di interesse presenti nel territorio comunale di Laurito, esportata in formato cartaceo e digitale (A4), completa di tutti gli elementi cartografici essenziali.
 
+---
+
 ## Licenza
 
 - I dati topografici (CTR) utilizzati provengono dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0.
 - I dati dei servizi WMS e delle fonti comunali sono soggetti alle condizioni d’uso riportate sui rispettivi siti. Si raccomanda di verificarle prima della redistribuzione.
+
+---
 
 ## Accesso ai dati 
 https://drive.google.com/drive/folders/1JPONY9p05AFiEmI8PQz0fy_AOHeQIgVs?usp=drive_link
