@@ -69,8 +69,5 @@ Corso GIS e Cartografia Geotematica – Università degli Studi di Napoli Federi
 - Integrare con dati su accessibilità, percorsi, servizi o itinerari.  
 - Collegare i punti mappa a schede descrittive o contenuti WebGIS.
 
-## Accesso ai dati
-https://drive.google.com/drive/folders/1JPONY9p05AFiEmI8PQz0fy_AOHeQIgVs?usp=drive_link
-
 ## Accesso ai dati 
 https://drive.google.com/drive/folders/1JPONY9p05AFiEmI8PQz0fy_AOHeQIgVs?usp=drive_link
